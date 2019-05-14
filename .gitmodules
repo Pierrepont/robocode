@@ -1,0 +1,3 @@
+[submodule "robots/a11ce"]
+	path = robots/a11ce
+	url = https://github.com/a11ce/robocode.git
